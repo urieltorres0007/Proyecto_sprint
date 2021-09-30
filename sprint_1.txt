@@ -1,0 +1,28 @@
+El sprint será calificado con una nota de 0.0 a 5.0 y corresponderá al 10% de la nota final del ciclo 3
+Solo un integrante del grupo debe entregar la actividad
+
+En un documento PDF realizar lo siguiente:
+
+1. Proyecto a desarrollar en el ciclo y product backlog
+
+    Definición del alcance
+    Listado de características y funcionalidades  del software
+
+2. Establecer e indicar los roles de cada uno de los integrantes del equipo
+
+    Product Owner
+    SCRUM Master
+    SCRUM Team
+
+3. Enlace o url del repositorio en GitHub para la gestión del código del proyecto
+
+    Crear y configurar el repositorio en GitHub
+    Cada integrante debe ser colaborador del repositorio y debe clonar el repositorio en su computador local
+
+Cada grupo ya tiene creado un equipo en la plataforma Microsoft Teams el cual debe utilizarce para todo el registro de reuniones, archivos y tareas a desarrollar
+
+Un enlace a un sencillo paso a paso de gestionar los equipos puede verse Aqui!
+
+4. Programar las reuniones de daily meeting en el equipo creado en Microsoft Teams
+5. Configuración y creación de las actividades a desarrollar en el Sprint 1 por cada integrante en el equipo creado de Microsoft Teams
+
